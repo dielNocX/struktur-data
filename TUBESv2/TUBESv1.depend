@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1733055188 source:f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\week11\tubesv1\main.cpp
+	<iostream>
+
+1733055496 source:f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\week11\tubesv1\mll.cpp
+	"MLL.h"
+
+1733055558 f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\week11\tubesv1\mll.h
+	<iostream>
+
