@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1735372981 source:f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v5\menu.cpp
+	"MLL.h"
+
+1735381346 f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v5\mll.h
+	<iostream>
+
+1735381279 source:f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v5\relasi.cpp
+	"MLL.h"
+
+1735380242 source:f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v5\investor.cpp
+	"MLL.h"
+
+1735380202 source:f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v5\startup.cpp
+	"MLL.h"
+
+1735372747 source:f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v5\general.cpp
+	"MLL.h"
+
+1735381199 source:f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v5\main.cpp
+	"MLL.h"
+
+1735372747 source:f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v6\general.cpp
+	"MLL.h"
+
+1735387649 f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v6\mll.h
+	<iostream>
+
+1735383930 source:f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v6\investor.cpp
+	"MLL.h"
+
+1735384193 source:f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v6\menu.cpp
+	"MLL.h"
+
+1735381279 source:f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v6\relasi.cpp
+	"MLL.h"
+
+1735385159 source:f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v6\startup.cpp
+	"MLL.h"
+
+1735382741 source:f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v6\main.cpp
+	"MLL.h"
+
+1735372747 source:f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v7\general.cpp
+	"MLL.h"
+
+1735387649 f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v7\mll.h
+	<iostream>
+
+1735383930 source:f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v7\investor.cpp
+	"MLL.h"
+
+1735382741 source:f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v7\main.cpp
+	"MLL.h"
+
+1735381279 source:f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v7\relasi.cpp
+	"MLL.h"
+
+1735385159 source:f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v7\startup.cpp
+	"MLL.h"
+
+1735392680 source:f:\fadhilah\pelajaran\kuliah\semester_3\strukdat\tubes\v7\menu.cpp
+	"MLL.h"
+
